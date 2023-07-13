@@ -4,7 +4,6 @@
   "description": "This project is based on the [React](https://react.dev) tutorial [tic-tac-toe](https://react.dev/learn/tutorial-tic-tac-toe), however in this repository I have replaced React with [htmx](https://htmx.org/).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx tsc && node ./dist/index.js"
   },
   "keywords": [],
