@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "This project is based on the [React](https://react.dev) tutorial [tic-tac-toe](https://react.dev/learn/tutorial-tic-tac-toe), however in this repository I have replaced React with [htmx](https://htmx.org/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.4.2"
+  }
+}
